@@ -51,6 +51,9 @@
 - [미션 4](https://github.com/CODEMCD/jwp-blog/tree/mission-04)
 - [Pull Requests Link](https://github.com/woowacourse/jwp-blog/pull/171)
 
+### 미니 팀프로젝트
+- [페이스북 Cloning 프로젝트](https://github.com/1-sunshine/miniprojects-2019)
+
 
 ## LEVEL 3 웹 백엔드에 깊이를 더하는 단계
 - 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
