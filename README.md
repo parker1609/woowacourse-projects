@@ -40,7 +40,7 @@
 - [미션 1](https://github.com/CODEMCD/jwp-blog/tree/CODEMCD)
 - [Pull Requests Link](https://github.com/woowacourse/jwp-blog/pull/31)
 
-### 미션 2 게시판 회원 기능
+### 미션 2 게시판 회원 기능 :busts_in_silhouette:
 - [미션 2](https://github.com/CODEMCD/jwp-blog/tree/CODEMCD)
 - [Pull Requests Link](https://github.com/woowacourse/jwp-blog/pull/55)
 
