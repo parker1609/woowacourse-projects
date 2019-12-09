@@ -1,5 +1,6 @@
 # 우아한테크코스 프로젝트
-- <https://github.com/woowacourse>
+- [우아한테크코스](https://woowacourse.github.io/)
+- [우아한테크코스 GITHUB](https://github.com/woowacourse)
 
 
 ## LEVEL 1 프로그래밍 기본
