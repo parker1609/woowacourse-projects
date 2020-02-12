@@ -1,4 +1,6 @@
 # :dizzy: 우아한테크코스 프로젝트
+> 우아한테크코스에서 진행한 프로젝트 및 활동을 모아놓은 곳입니다.
+
 - [우아한테크코스](https://woowacourse.github.io/)
 - [우아한테크코스 GITHUB](https://github.com/woowacourse)
 
